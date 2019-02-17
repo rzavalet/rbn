@@ -1,2 +1,2 @@
 # rbn
-Random Boolean Networs
+Random Boolean Networks
